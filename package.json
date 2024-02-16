@@ -1,5 +1,5 @@
 {
-  "name": "js-libp2p-relay-server",
+  "name": "js-libp2p-circuit-relay-server",
   "version": "0.0.0",
   "author": "ralzinov",
   "main": "index.js",

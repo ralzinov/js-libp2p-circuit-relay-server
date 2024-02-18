@@ -23,6 +23,9 @@ dependencies:
   '@libp2p/kad-dht':
     specifier: ~12.0.7
     version: 12.0.7
+  '@libp2p/peer-id':
+    specifier: ~4.0.6
+    version: 4.0.6
   '@libp2p/tcp':
     specifier: ~9.0.15
     version: 9.0.15

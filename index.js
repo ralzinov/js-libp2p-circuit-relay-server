@@ -22,7 +22,7 @@ const node = await createLibp2p({
         identify: identify(),
         relay: circuitRelayServer()
     }
-})
+});
 
 console.log(`Node started with id ${node.peerId.toString()}`)
 console.log('Listening on:')
